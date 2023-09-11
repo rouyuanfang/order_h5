@@ -30,7 +30,7 @@ function login() {
   })
     .then(() => {
       let schemeURL =
-        "miaoyin://auth/avatar?inBrowser=" +
+        "SCHME_URL://auth/avatar?inBrowser=" +
         inBrowser +
         "&form=报单H5商城&target=" +
         encodeURIComponent(
