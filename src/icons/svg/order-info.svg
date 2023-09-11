@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="订单详情-待发货" transform="translate(-12.000000, -771.000000)">
+            <g id="order_store_ic" transform="translate(12.000000, 771.000000)">
+                <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                <g id="-修改订单" transform="translate(2.000000, 2.000000)">
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M9.38599364,2.0956508 L4.00750484,2.0956508 C2.90293534,2.0956508 2.00750484,2.9910813 2.00750484,4.0956508 L2.00750484,13.079053 C2.00750484,14.1836225 2.90293534,15.079053 4.00750484,15.079053 L11.9905138,15.079053 C13.0950833,15.079053 13.9905138,14.1836225 13.9905138,13.079053 L13.9905138,7.06355218 L13.9905138,7.06355218" id="路径-2" stroke="#333333" stroke-width="1.33" stroke-linecap="round"></path>
+                    <line x1="9.89733333" y1="6.09722352" x2="14.1455399" y2="2.03594723" id="路径-3" stroke="#333333" stroke-width="1.33" stroke-linecap="round"></line>
+                    <rect id="矩形" fill="#333333" x="4" y="7" width="4" height="1.33" rx="0.665"></rect>
+                    <rect id="矩形备份" fill="#333333" x="4" y="10" width="7" height="1.33" rx="0.665"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

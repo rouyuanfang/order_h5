@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-107.000000, -437.000000)">
+            <g id="编组-2备份" transform="translate(12.000000, 389.000000)">
+                <g id="mine/myorder备份" transform="translate(88.000000, 48.000000)">
+                    <g id="mine/icon/myorder_dfk" transform="translate(7.000000, 0.000000)">
+                        <rect x="0" y="0" width="28" height="28"></rect>
+                        <rect id="矩形" stroke="#3A2931" stroke-width="2" x="3" y="4" width="22" height="20" rx="4"></rect>
+                        <path d="M23.5439924,26 L20.4560076,26 C20.1381268,26 19.8353832,25.8375527 19.6688742,25.556962 L18.1248817,22.943038 C17.9583728,22.6624473 17.9583728,22.3375527 18.1248817,22.056962 L19.6688742,19.443038 C19.8353832,19.1624473 20.1381268,19 20.4560076,19 L23.5439924,19 C23.8618732,19 24.1646168,19.1624473 24.3311258,19.443038 L25.8751183,22.056962 C26.0416272,22.3375527 26.0416272,22.6624473 25.8751183,22.943038 L24.3311258,25.556962 C24.1646168,25.8227848 23.8618732,26 23.5439924,26 Z" id="形状" fill="#F99627" fill-rule="nonzero"></path>
+                        <circle id="椭圆形" fill="#FFFFFF" fill-rule="nonzero" cx="22" cy="22.5" r="1.5"></circle>
+                        <rect id="矩形" fill="#3A2931" x="3" y="9" width="22" height="2"></rect>
+                        <path d="M12,10 L12,14.2433975 L11.3091248,13.9014374 C10.9486869,13.6308236 10.5308942,13.5 10.1153846,13.5 C9.65026469,13.5 9.18228379,13.6639284 8.79509378,14.004362 L8.79509378,14.004362 L8.09477646,10 L12,10 Z" id="路径" stroke="#3A2931" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

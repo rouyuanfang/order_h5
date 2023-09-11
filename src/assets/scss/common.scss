@@ -1,0 +1,85 @@
+.flex {
+  display: flex;
+}
+
+.flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flex-around {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.overflow-h {
+  overflow: hidden;
+}
+
+.overflow-y {
+  overflow-y: scroll;
+}
+
+.empty {
+  text-align: center;
+  margin: 8rem 0;
+  .no-data {
+    width: 22rem;
+    height: 22rem;
+  }
+  p {
+    color: $color-999;
+    font-size: $font-size-16;
+    line-height: 2.2rem;
+  }
+}
+.single-wrap {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.two-wrap {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.tabbar_page {
+  height: calc(100vh - 50px);
+  overflow-y: scroll;
+}
+.normal_page {
+  height: 100vh;
+}
+.app_page {
+  margin-top: 2rem;
+}
+
+.f5f5f5 {
+  background-color: #f5f5f5;
+}
+.ffffff {
+  background-color: #ffffff;
+}
+
+.float {
+  position: fixed;
+  right: 1.2rem;
+  bottom: 7rem;
+  // background-color: #FFF;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  // box-shadow: 0 0 6px rgba(0, 0, 0, .12);
+  z-index: 5;
+}

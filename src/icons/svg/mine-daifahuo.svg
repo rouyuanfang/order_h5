@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-107.000000, -307.000000)">
+            <g id="编组-2" transform="translate(12.000000, 259.000000)">
+                <g id="mine/myorder备份" transform="translate(88.000000, 48.000000)">
+                    <g id="mine/icon/myorder_dfk" transform="translate(7.000000, 0.000000)">
+                        <rect x="0" y="0" width="28" height="28"></rect>
+                        <polygon id="路径" fill="#FAE7E3" fill-rule="nonzero" points="22.769025 9.79163474 23.9788685 9.79163474 23.9788685 23.7916347 22.769025 23.7916347"></polygon>
+                        <polygon id="路径" fill="#FAE7E3" fill-rule="nonzero" points="3.47465561 21.7386307 24.1337435 21.7386307 24.1337435 22.9617794 3.47465561 22.9617794"></polygon>
+                        <rect id="矩形" stroke="#3A2931" stroke-width="2" x="3" y="4" width="22" height="20" rx="4"></rect>
+                        <rect id="矩形" fill="#3A2931" x="3" y="9" width="22" height="2"></rect>
+                        <path d="M13,9 L13,15.8541561 C13,16.07507 12.8209139,16.2541561 12.6,16.2541561 C12.5014465,16.2541561 12.406362,16.2177728 12.332982,16.1519839 L10.7692308,14.75 L10.7692308,14.75 C10.3846154,14.4166667 9.84615385,14.4166667 9.46153846,14.75 L7.66987178,16.3876953 C7.50681283,16.5367414 7.25380173,16.5253817 7.10475566,16.3623228 C7.03736793,16.2885994 7,16.1923321 7,16.092451 L7,9 L7,9 L13,9 Z" id="路径" fill="#F94227"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-40.000000, -307.000000)">
+            <g id="编组-2" transform="translate(12.000000, 259.000000)">
+                <g id="mine/myorder" transform="translate(21.000000, 48.000000)">
+                    <g id="mine/icon/myorder_dfk" transform="translate(7.000000, 0.000000)">
+                        <rect x="0" y="0" width="28" height="28"></rect>
+                        <g id="编组" transform="translate(3.000000, 3.000000)">
+                            <polygon id="路径" fill="#FAE7E3" fill-rule="nonzero" points="19.769025 4.79163474 20.9788685 4.79163474 20.9788685 18.7916347 19.769025 18.7916347"></polygon>
+                            <polygon id="路径" fill="#FAE7E3" fill-rule="nonzero" points="0.474655611 18.7386307 21.1337435 18.7386307 21.1337435 19.9617794 0.474655611 19.9617794"></polygon>
+                            <path d="M14,21 L4,21 C1.790861,21 0,19.209139 0,17 L0,4 C0,1.790861 1.790861,0 4,0 L14,0 C16.209139,0 18,1.790861 18,4 L18,4.14195963 L18,4.14195963" id="路径" stroke="#3A2931" stroke-width="2"></path>
+                            <path d="M6.05092542,4 L6.05092542,4 L18,4 C20.209139,4 22,5.790861 22,8 L22,17 C22,19.209139 20.209139,21 18,21 L4,21 C1.790861,21 0,19.209139 0,17 L0,8" id="路径" stroke="#3A2931" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M22.9986626,15.0521477 L15.287281,15.0521477 C13.8375017,15.0521477 12.662164,13.8638843 12.662164,12.3981611 C12.662164,10.9324379 13.8375017,9.74417452 15.287281,9.74417452 L22.9986626,9.74417452 L22.9986626,15.0521477 Z" id="路径" fill="#F94227" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

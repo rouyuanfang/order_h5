@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="标签栏" transform="translate(-291.000000, -153.000000)">
+            <g id="tabbar" transform="translate(0.000000, 150.000000)">
+                <g id="tab/icon/" transform="translate(291.000000, 3.000000)">
+                    <path d="M14,2.33333333 C17.8659932,2.33333333 21,5.46734008 21,9.33333333 C21,11.4210673 20.0860382,13.2953341 18.6363993,14.5778488 C23.103453,15.858734 26.25,18.975074 26.25,22.8961224 C26.25,28.0728354 1.75,28.0728354 1.75,22.8961224 C1.75,18.975074 4.89654697,15.858734 9.3629752,14.5776305 C7.91396184,13.2953341 7,11.4210673 7,9.33333333 C7,5.46734008 10.1340068,2.33333333 14,2.33333333 Z" id="形状结合" fill="#F94227"></path>
+                    <rect id="矩形" fill="#FFFFFF" x="13" y="19" width="2" height="5" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

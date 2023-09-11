@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <filter x="-32.0%" y="-28.6%" width="164.0%" height="157.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0883623713   0 0 0 0 0.135550057   0 0 0 0 0.764719203  0 0 0 0.574901661 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息中心" transform="translate(-12.000000, -112.000000)">
+            <g id="massage_gf_ic" transform="translate(12.000000, 112.000000)">
+                <rect id="矩形" fill="#7E87FF" x="0" y="0" width="50" height="50" rx="25"></rect>
+                <g id="编组-9" filter="url(#filter-1)" transform="translate(12.500000, 11.363636)" fill-rule="nonzero">
+                    <path d="M23.5571179,22.7272727 L1.44288213,22.7272727 C0.646000322,22.7272727 -1.77635684e-15,22.0633643 -1.77635684e-15,21.2443919 C-1.77635684e-15,20.4254194 0.646000322,19.761511 1.44288213,19.761511 L2.88476853,19.761511 L2.88476853,11.8569066 C2.88696824,7.09611337 6.19250677,3.0139992 10.7474309,2.14705593 C10.6384587,1.94297563 10.5796621,1.71461966 10.5761571,1.48185748 C10.5772559,0.663119221 11.2233804,-3.97015754e-12 12.020035,-3.97015754e-12 L12.979965,-3.97015754e-12 C13.7765873,-3.97015754e-12 14.4218514,0.66315169 14.4218514,1.48185748 C14.4193622,1.71450297 14.3612268,1.94294733 14.2525691,2.14705593 C18.8067015,3.0148686 22.1112183,7.09675489 22.1132399,11.8569066 L22.1132399,19.761511 L23.5571179,19.761511 C24.3539997,19.761511 25,20.4254194 25,21.2443919 C25,22.0633643 24.3539997,22.7272727 23.5571179,22.7272727 L23.5571179,22.7272727 Z" id="形状" fill="#FFFFFF"></path>
+                    <path d="M12.4892045,27.2727316 C9.73333063,27.2734322 7.35787573,25.3730683 6.80738629,22.7272727 L18.1710227,22.7272727 C17.6205332,25.3730683 15.2450783,27.2734322 12.4892045,27.2727316 Z" id="路径" fill="#C3C7FF" opacity="0.776185501"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

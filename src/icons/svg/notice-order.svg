@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <filter x="-33.9%" y="-28.5%" width="167.8%" height="156.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.206021341   0 0 0 0 0.608303862   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息中心" transform="translate(-12.000000, -187.000000)">
+            <g id="massage_gf_ic" transform="translate(12.000000, 187.000000)">
+                <rect id="矩形" fill="#69B5FF" x="0" y="0" width="50" height="50" rx="25"></rect>
+                <g id="任务-(1)" filter="url(#filter-1)" transform="translate(12.969697, 10.462121)">
+                    <path d="M0,6.40151516 C0,4.22584797 1.76372674,2.46212123 3.93939393,2.46212123 L19.6666667,2.46212123 C20.7114589,2.46212123 21.7134591,2.87716333 22.4522388,3.615943 C23.1910185,4.35472267 23.6060606,5.35672293 23.6060606,6.40151516 L23.6060606,21.1742424 C23.6060606,23.3499096 21.8423338,25.1136364 19.6666667,25.1136364 L3.93939393,25.1136364 C1.76372674,25.1136364 0,23.3499096 0,21.1742424 L0,6.40151516 Z" id="路径" fill="#C0E0FF" fill-rule="nonzero"></path>
+                    <path d="M23.6060606,7.38636364 L0,7.38636364 L0,24.1742424 C0,26.3499096 1.76372674,28.1136364 3.93939393,28.1136364 L19.6666667,28.1136364 C21.8423338,28.1136364 23.6060606,26.3499096 23.6060606,24.1742424 L23.6060606,7.38636364 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="矩形" fill="#C0E0FF" x="6" y="12" width="12" height="3" rx="1.5"></rect>
+                    <rect id="矩形备份" fill="#C0E0FF" x="6" y="19" width="12" height="3" rx="1.5"></rect>
+                    <path d="M7.38636364,1.47727273 C7.38636364,0.661397529 6.72496611,0 5.90909091,0 C5.09321571,0 4.43181818,0.661397529 4.43181818,1.47727273 L4.43181818,4.43181818 C4.43181818,5.24769338 5.09321571,5.90909091 5.90909091,5.90909091 C6.72496611,5.90909091 7.38636364,5.24769338 7.38636364,4.43181818 L7.38636364,1.47727273 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M19.1742424,1.47727273 C19.1742424,0.661397553 18.5128449,6.22649523e-08 17.6969697,6.22649523e-08 C16.8810945,6.22649523e-08 16.219697,0.661397553 16.219697,1.47727273 L16.219697,4.43181818 C16.219697,5.24769336 16.8810945,5.90909085 17.6969697,5.90909085 C18.5128449,5.90909085 19.1742424,5.24769336 19.1742424,4.43181818 L19.1742424,1.47727273 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

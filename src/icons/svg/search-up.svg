@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="搜索-结果" transform="translate(-332.000000, -125.000000)">
+            <g id="icon_price备份" transform="translate(332.000000, 125.000000)">
+                <rect id="矩形" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="15" height="15"></rect>
+                <polygon id="路径" fill="#999999" fill-rule="nonzero" points="11.4516749 8.95057891 4.00107914 8.95057891 7.72636016 13.4209195 11.4516412 8.95057891"></polygon>
+                <polygon id="路径" fill="#FA5946" fill-rule="nonzero" points="4.00111286 5.9703406 11.4517086 5.9703406 7.72642761 1.5 4.00114658 5.9703406"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

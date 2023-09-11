@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="标签栏" transform="translate(-57.000000, -90.000000)">
+            <g id="tabbar备份" transform="translate(0.000000, 87.000000)">
+                <g id="tab/icon/" transform="translate(57.000000, 1.467340)">
+                    <path d="M23.3333333,10.8659932 L23.3333333,21.3659932 C23.3333333,23.2989899 21.76633,24.8659932 19.8333333,24.8659932 L8.16666667,24.8659932 C6.23367004,24.8659932 4.66666667,23.2989899 4.66666667,21.3659932 L4.66666667,10.8659932 L4.66666667,10.8659932" id="路径" stroke="#999999" stroke-width="2"></path>
+                    <rect id="矩形" fill="#D8D8D8" x="10.5" y="18.5326599" width="7" height="2" rx="1"></rect>
+                    <path d="M5.83333333,19.7160774 L8.584206,7.87824472 C8.78558436,7.01165305 9.46224229,6.33499512 10.328834,6.13361676 L22.1666667,3.38274409 L22.1666667,3.38274409" id="路径" stroke="#999999" stroke-width="2.33333333" stroke-linecap="round" transform="translate(14.000000, 11.549411) rotate(-315.000000) translate(-14.000000, -11.549411) "></path>
+                    <path d="M2.33333333,11.5494108 L12.7538372,5.12395969 C13.5166729,4.65358285 14.4833271,4.65358285 15.2461628,5.12395969 L25.6666667,11.5494108 L25.6666667,11.5494108" id="路径" stroke="#999999" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

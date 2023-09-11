@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="v1.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="我的" transform="translate(-22.000000, -747.000000)" stroke="#131313" stroke-width="1.5">
+            <g id="编组-3" transform="translate(12.000000, 519.000000)">
+                <g id="mine/list备份-5" transform="translate(10.000000, 228.000000)">
+                    <g id="优惠券_coupon" transform="translate(5.428571, 7.571429)">
+                        <path d="M0,4.16131381 L0,0 L16.6666667,0 L16.6666667,4.16131381 C15.7839583,4.47589714 15.1515,5.24339794 15.1515,6.45833333 C15.1515,7.67326873 15.7839583,8.60017889 16.6666667,8.91476222 L16.6666667,12.9166667 L0,12.9166667 L0,8.91476222 C0.882720833,8.60017889 1.51515,7.456125 1.51515,6.45833333 C1.51515,5.46054167 0.882720833,4.47589714 0,4.16131381 Z" id="路径"></path>
+                        <polyline id="路径" stroke-linecap="round" points="6.25 2.91666667 8.33333333 5 10.4166667 2.91666667"></polyline>
+                        <line x1="5.83333333" y1="5.41666667" x2="10.8333333" y2="5.41666667" id="路径" stroke-linecap="round"></line>
+                        <line x1="5.83333333" y1="7.76202012" x2="10.8333333" y2="7.76202012" id="路径" stroke-linecap="round"></line>
+                        <line x1="8.33333333" y1="5.41666667" x2="8.33333333" y2="10.4166667" id="路径" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
